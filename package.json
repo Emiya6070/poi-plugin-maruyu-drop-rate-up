@@ -1,10 +1,10 @@
 {
   "name": "poi-plugin-maruyu-drop-rate-up",
-  "version": "0.1.0",
-  "description": "娱乐用 poi 插件，点击后只显示马路油胸前的圆圈ゆ图标。",
+  "version": "0.1.1",
+  "description": "",
   "type": "commonjs",
   "main": "index.js",
-  "files": ["index.js", "assets", "popup.html", "docs", "THIRD_PARTY_NOTICES.md", "third-party"],
+  "files": ["index.js", "assets", "popup.html", "THIRD_PARTY_NOTICES.md", "third-party"],
   "scripts": { "check": "node --check index.js" },
   "repository": { "type": "git", "url": "git+https://github.com/Emiya6070/poi-plugin-maruyu-drop-rate-up.git" },
   "homepage": "https://github.com/Emiya6070/poi-plugin-maruyu-drop-rate-up#readme",
@@ -14,7 +14,7 @@
   "keywords": ["poi-plugin", "kancolle", "maruyu", "entertainment"],
   "poiPlugin": {
     "title": "马路油",
-    "description": "娱乐用插件，点击后只显示马路油图标。",
+    "description": "",
     "icon": "maruyu-drop-rate-up",
     "priority": 50
   }
